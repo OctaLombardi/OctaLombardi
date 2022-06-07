@@ -1,6 +1,6 @@
-- 👋 Hi, soy Octavio
+- 👋 Hi, i'm  Octavio
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ... Javascript and React Js
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... Javascript, React Js and CSS
+- 💞️ I’m looking to learn Node Js, Express or Phyton
 - 📫 How to reach me ...
 
